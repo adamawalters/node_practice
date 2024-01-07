@@ -1,0 +1,1 @@
+console.log( Number(-9) > Number.MIN_VALUE)
